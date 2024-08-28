@@ -27,7 +27,7 @@
                         <a :href="'mailto:' + email"><img src="@/assets/email.svg" alt="Email icon" class="w-14"></a>
                         <a href="https://www.linkedin.com/in/adrian-rodriguez-dev/" target="_blank"><img
                                 src="@/assets/linkedin.svg" alt="LinkedIn icon" class="w-10"></a>
-                        <a href="https://github.com/zzadrianzz" target="_blank"><img src="@/assets/github.svg"
+                        <a href="https://github.com/adrianistaken" target="_blank"><img src="@/assets/github.svg"
                                 alt="GitHub icon" class="w-10"></a>
                     </div>
                     <!-- <p class="mt-2">Email: <a :href="'mailto:' + email" class="text-blue-600">{{ email }}</a></p> -->
@@ -192,7 +192,7 @@
                     <a :href="'mailto:' + email"><img src="@/assets/email.svg" alt="Email icon" class="w-10"></a>
                     <a href="https://www.linkedin.com/in/adrian-rodriguez-dev/" target="_blank"><img
                             src="@/assets/linkedin.svg" alt="LinkedIn icon" class="w-7"></a>
-                    <a href="https://github.com/zzadrianzz" target="_blank"><img src="@/assets/github.svg"
+                    <a href="https://github.com/adrianistaken" target="_blank"><img src="@/assets/github.svg"
                             alt="GitHub icon" class="w-8"></a>
                     <a href="https://www.youtube.com/@zzadrianzz" target="_blank"><img src="@/assets/youtube.svg"
                             alt="YouTube icon" class="w-9"></a>
